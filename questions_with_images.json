@@ -1,0 +1,166 @@
+[
+  {
+    "question": "1. Find the next figures in the figure pattern given below. [A] [B] [C] [D] Ans. [D]",
+    "images": [
+      "extracted_content\\q1-q2_img_1_option.png",
+      "extracted_content\\q1-q2_img_2_option.png",
+      "extracted_content\\q1-q2_img_3_option.png",
+      "extracted_content\\q1-q2_img_4_option.png",
+      "extracted_content\\q1-q2_img_5_option.png",
+      "extracted_content\\q1-q2_img_6_option.png"
+    ]
+  },
+  {
+    "question": "2. Complete the number pattern. [A] [B] 1 [C] [D] Ans [C]",
+    "images": [
+      "extracted_content\\q2-q3_img1_7_option.png",
+      "extracted_content\\q2-q3_img1_8_option.png",
+      "extracted_content\\q2-q3_img1_9_option.png",
+      "extracted_content\\q2-q3_img2_1_option.png",
+      "extracted_content\\q2-q3_img2_2_option.png"
+    ]
+  },
+  {
+    "question": "3. In the questions given below, the series with one or more terms figures are missing marked with ‘?’. Choose the correct option to replace the ‘?’ mark(s). [A] 19 [B] 18 [C] 17 [D] 20 Ans [C]",
+    "images": []
+  },
+  {
+    "question": "4. Number of the groups of 9 paper clips ( ) shown here is [A] 2 [B] 3 [C] 9 [D] 27 Ans [D]",
+    "images": []
+  },
+  {
+    "question": "5. How many bananas are kept outside the basket? [A] 1 [B] 2 [C] 3 [D] 4 2 Ans [D] SECTION-02 MATHEMATICS",
+    "images": []
+  },
+  {
+    "question": "6. A programme of children ended at the time shown on the clock. At what time did the programme end? [A] 6: 00 [B] 5: 20 [C] 7: 00 [D] None of these Ans [B]",
+    "images": []
+  },
+  {
+    "question": "7. Suresh had 112 bookmarks. He gives some bookmarks to her pupils, he had 13 bookmarks left. How many bookmarks did he give away? [A] 110 [B] 125 [C] 99 [D] 130 Ans [C] 3",
+    "images": []
+  },
+  {
+    "question": "8. Count and write the amount of money. [A] Rs 70.00 [B] Rs 76.01 [C] Rs 75.40 [D] Rs 80.04 Ans [B]",
+    "images": []
+  },
+  {
+    "question": "9. Six cats are numbered as follows: Which cat shows the number lying between 40 and 50 and also having 3 at ones place? [A] [B] 4 [C] [D] Ans [B]",
+    "images": [
+      "extracted_content\\q9-q10_img1_2_option.png",
+      "extracted_content\\q9-q10_img1_3_option.png",
+      "extracted_content\\q9-q10_img1_4_option.png",
+      "extracted_content\\q9-q10_img2_1_option.png",
+      "extracted_content\\q9-q10_img2_2_option.png"
+    ]
+  },
+  {
+    "question": "10. Sonia bought 45 candies. She gave 22 cookies to her sister. How many candies are left with her? [A] 42 [B] 23 [C] 50 [D] 43 Ans [B]",
+    "images": []
+  },
+  {
+    "question": "11. Which of the following is greatest? Ans [D]",
+    "images": []
+  },
+  {
+    "question": "12. Write ‘+’ or ‘–’ in each to complete the number sentence. [A] +, + [B] +, – [C] –, – [D] –, + Ans [B] 5",
+    "images": []
+  },
+  {
+    "question": "13. Object _______________ is the heaviest. [A] 3 [B] 5 [C] 4 [D] 1 Ans [C] Direction (Q.No.14 & 15): Study the diagram below and answer the questions 14 and 15.",
+    "images": []
+  },
+  {
+    "question": "14. The length of BD is 1 cm less than the total length of AB and AD. CD is __________ cm longer than BD. [A] 5 [B] 4 [C] 8 [D] 9 Ans [B]",
+    "images": []
+  },
+  {
+    "question": "15. The length of CD is twice that of BC. What is the length of all the sides of triangle BCD? [A] 15 cm [B] 31 cm [C] 42 cm [D] 38 cm Ans [A] 6 3 c m D A 4 c m 1 0 c m B C",
+    "images": []
+  },
+  {
+    "question": "16. Which of the following clocks shows 30 minutes after 4 O’clock? [A] [B] [C] [D] Ans [B]",
+    "images": []
+  },
+  {
+    "question": "17. Sent gold High School has 453 students. It has 23 more students than kiddy gold High School. How many students does kiddy gold High School have? [A] 400 [B] 430 [C] 403 [D] 340 Ans [B] 7 1 0 9 8 1 0 9 8 1 0 9 8 1 0 9 8 1 1 7 1 1 7 1 1 7 1 1 7 1 2 6 1 2 6 1 2 6 1 2 6 1 5 1 5 1 5 1 5 2 3 4 2 3 4 2 3 4 2 3 4",
+    "images": []
+  },
+  {
+    "question": "18. Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. How much did he spend altogether? [A] Rs 80 [B] Rs 85 [C] Rs 58 [D] Rs 86 Ans [D]",
+    "images": []
+  },
+  {
+    "question": "19. Which tree has apples more than 6 but less than 9? [A] [B] [C] [D] Ans [B]",
+    "images": []
+  },
+  {
+    "question": "20. Which abacus shows 15 – 13 = 13? [A] [B] [C] [D] Ans [C] 8",
+    "images": [
+      "extracted_content\\q20-q21_img1_5_option.png",
+      "extracted_content\\q20-q21_img1_6_option.png",
+      "extracted_content\\q20-q21_img1_7_option.png",
+      "extracted_content\\q20-q21_img1_8_option.png"
+    ]
+  },
+  {
+    "question": "21. Which of the following is smallest? Ans [C]",
+    "images": []
+  },
+  {
+    "question": "22. 6 hundreds 3 tens 2 ones – 3 hundreds 2 tens 6 ones = ____________. [A] 306 [B] 360 [C] 603 [D] 305 Ans [A]",
+    "images": []
+  },
+  {
+    "question": "23. What does stand for ? [A] 7 [B] 5 [C] 3 [D] 4 Ans [D]",
+    "images": []
+  },
+  {
+    "question": "24. A number bond is shown below. What is the value of M × N? [A] 35 [B] 43 [C] 52 [D] 25 9 Ans [D]",
+    "images": []
+  },
+  {
+    "question": "25. Tanya has following two pencils. Find the total length of both the pencils. [A] 7 units [B] 6 units [C] 5 units [D] 9 units Ans [D]",
+    "images": []
+  },
+  {
+    "question": "26. There were 298 hens and cows on a farm. There were 153 hens. How many cows were there? [A] 138 [B] 140 [C] 145 [D] 144 Ans [C]",
+    "images": []
+  },
+  {
+    "question": "27. Write the correct time for the clock shown below. [A] 5 : 15 [B] 5 : 40 [C] 6 : 20 [D] 3 : 20 Ans [A] 10",
+    "images": []
+  },
+  {
+    "question": "28. Sumit has following flowers and balloons. Which statement is true? [A] Flowers are more than balloons. [B] Flowers are equal to balloons. [C] Flowers are less than balloons [D] Balloons are 2 more than flowers. Ans [C]",
+    "images": []
+  },
+  {
+    "question": "29. A bag of rice weighs 3 kg. How much do 6 bags of rice weight? [A] 18 kg [B] 24 kg [C] 15 kg [D] 17 kg Ans [A]",
+    "images": []
+  },
+  {
+    "question": "30. If only all Saturdays and Sundays are holidays, then in the month of December 2014 how many holidays will we get? [A] 6 [B] 8 [C] 10 [D] 7 11 Ans [B] ACHIEVER SECTION",
+    "images": []
+  },
+  {
+    "question": "31. How much do the counters add up to? [A] 253 [B] 235 [C] 325 [D] 532 Ans [A]",
+    "images": []
+  },
+  {
+    "question": "32. The packet of rice has a mass of _______________ kg. Flour 0 15 5 10 12 [A] 9 [B] 15 [C] 18 [D] 12 Ans [D]",
+    "images": []
+  },
+  {
+    "question": "33. Fill in the blank: The book is ________________ the lamp. [A]Equal to [B] Lighter than [C] Heavier than [D] None of these Ans [B]",
+    "images": []
+  },
+  {
+    "question": "34. Which of the following is the CORRECT way of writing 8 less than 14? [A] 14 – 8 = 6 [B] 14 + 8 = 6 [C] 14 – 6 = 8 [D] 14 + 6 = 8 Ans [A]",
+    "images": []
+  },
+  {
+    "question": "35. Tonu gave Rs 50 to buy this ball. How much money will he get back? [A] Rs 15 [B]Rs 25 [C] Rs 20 [D] Rs 17 13 Ans [B] 14",
+    "images": []
+  }
+]
